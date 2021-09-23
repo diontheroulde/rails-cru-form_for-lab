@@ -1,0 +1,15 @@
+current directory: /Users/diontherouldejr/defenders/phase-4/rails-cru-form_for-lab/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+/Users/diontherouldejr/.asdf/installs/ruby/2.6.1/bin/ruby -I /Users/diontherouldejr/.asdf/installs/ruby/2.6.1/lib/ruby/2.6.0 -r ./siteconf20210922-49125-114xgli.rb extconf.rb
+creating Makefile
+
+current directory: /Users/diontherouldejr/defenders/phase-4/rails-cru-form_for-lab/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/diontherouldejr/defenders/phase-4/rails-cru-form_for-lab/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/diontherouldejr/defenders/phase-4/rails-cru-form_for-lab/vendor/ruby/2.6.0/gems/bootsnap-1.9.1/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20210922-49125-7jzcd0/bootsnap
